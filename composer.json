@@ -23,7 +23,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Nwdthemes\\ArraySerialized\\": ""
+      "LProfe\\Hithere\\": ""
     },
 	"minimum-stability": "dev"
   }
